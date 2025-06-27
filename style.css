@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+   margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,7 +10,7 @@ html, body {
 
 body{
     background: linear-gradient(150deg, rgb(241, 187, 187) 0%, rgb(14, 2, 2) 100%);
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto",  sans-serif;
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -29,9 +29,7 @@ body{
     background: rgb(238, 229, 229);
     width: 600px;
     overflow: hidden;
-    
-}
-    
+}   
 .post-header{
     display: flex;
     align-items: center;
@@ -57,8 +55,6 @@ body{
 .menu{
     margin-right: 20px;
     font-size: 2.5em;
-    font-weight: bold;
-    cursor: pointer;
 }   
 .post-img{
     align-items: center;
@@ -76,7 +72,6 @@ img {
 .post-body{
     display: flex;
     flex-direction: column;
-    
 }
 .post-icons2 ul{
     display: flex;
@@ -95,8 +90,6 @@ img {
     font-size: 20px;
     margin: 5px;
     padding: 10px;
-   
-
 }
     
     
